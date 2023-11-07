@@ -36,5 +36,6 @@ The project utilizes various Python libraries and modules to achieve its objecti
 
 These libraries and modules work together to preprocess and analyze data, handle text and geographical information, and perform web scraping and HTTP requests. The categorization helps in understanding their roles and relevance in the project.
 
-<a href="https://drive.google.com/file/d/1Xs36dHIMg-DAwmCK_kuaZ7TYGCnvzwKn/view?usp=drive_link">Download PowerPoint Presentation</a>
+## Here is the summary of this project:
+<a href="https://drive.google.com/open?id=1fKr7UvgDuMPuXb0Jbx7fYGnC6kw9ZIxDf0UakagO_ZI&usp=drive_copy">Download PowerPoint Presentation</a>
 

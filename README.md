@@ -36,6 +36,12 @@ The project utilizes various Python libraries and modules to achieve its objecti
 
 These libraries and modules work together to preprocess and analyze data, handle text and geographical information, and perform web scraping and HTTP requests. The categorization helps in understanding their roles and relevance in the project.
 
-## Here is the summary of this project:
+# Here is the summary of this project:
 <a href="https://drive.google.com/open?id=1fKr7UvgDuMPuXb0Jbx7fYGnC6kw9ZIxDf0UakagO_ZI&usp=drive_copy">Download PowerPoint Presentation</a>
+
+# Data Privacy and Sharing Limitations
+
+The data used in this project contains sensitive or private information. For this reason, I am unable to share the data files on this public repository. 
+
+I understand the importance of data transparency and reproducibility. If you wish to replicate the results or collaborate on this project, please contact me through the provided contact information or by opening an issue. I will do my best to assist you in accessing the necessary data for your research purposes.
 

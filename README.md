@@ -35,4 +35,6 @@ The project utilizes various Python libraries and modules to achieve its objecti
 - **IPython.display**: Displaying content in IPython environments.
 
 These libraries and modules work together to preprocess and analyze data, handle text and geographical information, and perform web scraping and HTTP requests. The categorization helps in understanding their roles and relevance in the project.
-[Download PowerPoint Presentation](https://drive.google.com/file/d/1Xs36dHIMg-DAwmCK_kuaZ7TYGCnvzwKn/view?usp=drive_link)
+
+<a href="https://drive.google.com/file/d/1Xs36dHIMg-DAwmCK_kuaZ7TYGCnvzwKn/view?usp=drive_link">Download PowerPoint Presentation</a>
+

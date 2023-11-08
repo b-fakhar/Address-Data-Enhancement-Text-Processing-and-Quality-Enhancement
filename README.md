@@ -38,7 +38,7 @@ These libraries and modules work together to preprocess and analyze data, handle
 
 # Here is the summary of this project:
 <a href="https://drive.google.com/open?id=1fKr7UvgDuMPuXb0Jbx7fYGnC6kw9ZIxDf0UakagO_ZI&usp=drive_copy">Download PowerPoint Presentation</a>
-
+![image](<img width="1005" alt="Slide1" src="https://github.com/b-fakhar/Address-Data-Enhancement-Text-Processing-and-Quality-Enhancement/assets/59096353/a90dbc5e-30bf-4724-826b-6601dba1b4b0">)
 # Data Privacy and Sharing Limitations
 
 The data used in this project contains sensitive or private information. For this reason, I am unable to share the data files on this public repository. 

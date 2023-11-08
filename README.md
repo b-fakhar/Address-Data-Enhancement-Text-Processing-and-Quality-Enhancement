@@ -39,6 +39,13 @@ These libraries and modules work together to preprocess and analyze data, handle
 # Here is the summary of this project:
 <a href="https://drive.google.com/open?id=1fKr7UvgDuMPuXb0Jbx7fYGnC6kw9ZIxDf0UakagO_ZI&usp=drive_copy">Download PowerPoint Presentation</a>
 ![image](<img width="1005" alt="Slide1" src="https://github.com/b-fakhar/Address-Data-Enhancement-Text-Processing-and-Quality-Enhancement/assets/59096353/a90dbc5e-30bf-4724-826b-6601dba1b4b0">)
+
+<img width="1005" alt="Slide1" src="https://github.com/b-fakhar/Address-Data-Enhancement-Text-Processing-and-Quality-Enhancement/assets/59096353/4d9d5f16-5e93-4ac8-b895-d3876d97ba53">
+<img width="998" alt="Slide2" src="https://github.com/b-fakhar/Address-Data-Enhancement-Text-Processing-and-Quality-Enhancement/assets/59096353/244d42fc-b792-4214-aa4e-3dfc1dc4892d">
+<img width="1004" alt="Slide3" src="https://github.com/b-fakhar/Address-Data-Enhancement-Text-Processing-and-Quality-Enhancement/assets/59096353/11198a62-626a-4a9b-8090-89dabfc093bb">
+<img width="1001" alt="Slide4" src="https://github.com/b-fakhar/Address-Data-Enhancement-Text-Processing-and-Quality-Enhancement/assets/59096353/5dd07ff1-c060-4f3e-bc48-3269110dcb39">
+<img width="999" alt="Slide5" src="https://github.com/b-fakhar/Address-Data-Enhancement-Text-Processing-and-Quality-Enhancement/assets/59096353/6aae9770-2239-4130-b83c-8cbfd3128e5d">
+
 # Data Privacy and Sharing Limitations
 
 The data used in this project contains sensitive or private information. For this reason, I am unable to share the data files on this public repository. 

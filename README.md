@@ -43,7 +43,7 @@ The project utilizes various Python libraries and modules to achieve its objecti
 ### Other
 - **IPython.display**: Displaying content in IPython environments.
 
-These libraries and modules work together to preprocess and analyze data, handle text and geographical information, and perform web scraping and HTTP requests. The categorization helps in understanding their roles and relevance in the project.
+These libraries and modules work together to preprocess and analyze data, handle text and geographical information, and perform web scraping and HTTP requests. 
 
 # Data Privacy and Sharing Limitations
 

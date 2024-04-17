@@ -1,4 +1,8 @@
 # Insurance Project: Address Data Enhancement
+
+## Project Overview
+In this project, I successfully improved the address coverage rate for an insurance company from 63.39% to 92.32%. By implementing advanced data processing techniques and optimizing the address matching algorithm, I significantly enhanced the company's ability to accurately locate and identify client addresses. This improvement not only enhances operational efficiency but also contributes to better customer service and risk assessment.
+
 ## Libraries and Modules Used
 
 The project utilizes various Python libraries and modules to achieve its objectives. These libraries are categorized based on their primary purposes:
